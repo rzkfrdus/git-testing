@@ -1,2 +1,1 @@
-This file from master branch, so this a main branch
-...................................................
+Another text in git testing
